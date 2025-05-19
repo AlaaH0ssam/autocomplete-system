@@ -1,0 +1,7 @@
+prediction 5
+priority 17
+proceed 40
+process 100
+progress 85
+project 97
+prototype 30
